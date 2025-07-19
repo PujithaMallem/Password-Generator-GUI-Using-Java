@@ -26,12 +26,6 @@ A lightweight, secure, and user-friendly desktop application that generates stro
 
 ---
 
-## 🖼️ Preview
-
-> *Coming Soon!* (Add screenshots of your GUI application here to make the README more appealing)
-
----
-
 ## 🚀 Getting Started
 
 ### 🔧 Prerequisites
@@ -88,6 +82,5 @@ GeeksforGeeks – Java Swing Tutorials
 Baeldung – SecureRandom in Java
 
 💬 Contact
-Author: M. Pujitha
-Department: Computer Science & Engineering (Data Science)
-Institution: MLR Institute of Technology
+Author: Mallem Pujitha
+
